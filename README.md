@@ -2,9 +2,9 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou procurando uma vaga de dev.
-- 🌱 Atualmente estou aprendendo Python, JS e TS.
-- 📫 Como entrar em contato comigo: No final da página.
-- ⚡ Curiosidade: Trabalhei com programação mesmo sem estudar me formei em Gestão Pública e só após algum tempo sabendo que minha área era TI que realmente fui me especializar/estudar.
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas pela UNICID.
+- 🌱 Paralelamente estou aprendendo Java, Python, JavaScript e TypeScript.
+- ⚡ Curiosidade: Trabalhei com programação sem formação específica na área, me formei em Gestão Pública e, somente depois de algum tempo, percebi que minha verdadeira vocação era TI e decidi me especializar e estudar nessa área.
 
 ## Estou aprendendo
 
@@ -20,6 +20,7 @@
 <div>
 <a href="https://www.linkedin.com/in/eriicrodriigues" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:ericrodrigues14@gmail.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://ericdesigndrive.wixsite.com/portifolio" target="_blank"><img loading=lazy src="https://img.shields.io/badge/portfolio-000FFF?style=for-the-badge&logo=web&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com/@EricDriver" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/eriicrodriigues" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
