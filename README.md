@@ -1,9 +1,10 @@
 # Olá, me chamo Eric Rodrigues ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou procurando uma vaga de dev.
+- 💻 Atualmente trabalho no Ministério da Gestão e da Inovação em Serviços Públicos como Especialista em Desenvolvimento de Software.
+- 💼 Desenvolvimento Low Code em APEX
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas pela UNICID.
-- 🌱 Paralelamente estou aprendendo Java, Python, JavaScript e TypeScript.
+- 🎓 Pós Graduado em Engenharia e Arquitetura de Dados com IA pela XP Educação.
 - ⚡ Curiosidade: Trabalhei com programação sem formação específica na área, me formei em Gestão Pública e, somente depois de algum tempo, percebi que minha verdadeira vocação era TI e decidi me especializar e estudar nessa área.
 
 ## Estou aprendendo
